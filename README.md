@@ -1,7 +1,5 @@
 ## Olá me chamo Marcelo Benites 🖐
 
-<img align="right" height="590em" 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarceloBenitesPro&color=yellow" alt="Profile views" /> </p>
 
 <div> 
