@@ -1,5 +1,9 @@
 ## Olá me chamo Marcelo Benites 🖐
 
+<img align="right" height="590em" 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarceloBenitesPro&color=yellow" alt="Profile views" /> </p>
+
 <div> 
   <a href="https://www.youtube.com/channel/UC8hI2Gzz-_mDQtC1ejC4EFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eusoumarcelobenites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
