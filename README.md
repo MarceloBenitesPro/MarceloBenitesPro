@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Benites</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu Sou Marcelo Benites</h1>
 
 <img align="right" height="590px" src="https://raw.githubusercontent.com/gist/MarceloBenitesPro/0e4bdd00801ff7f93483eb5357e5ee35/raw/070cf01f5d2844c75124cedcea0ac600074db5c3/githubcard1.svg">
 
